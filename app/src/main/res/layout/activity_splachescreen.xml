@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0FFFFFFF"
+    tools:context="splashscreen">
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="1916dp"
+        android:layout_height="2942dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/img_3" />
+
+    <ImageView
+        android:id="@+id/bbbb"
+        android:layout_width="185dp"
+        android:layout_height="176dp"
+        android:layout_marginTop="224dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/img" />
+
+    <TextView
+        android:id="@+id/aaaa"
+        android:layout_width="405dp"
+        android:layout_height="102dp"
+        android:layout_marginTop="20dp"
+        android:text="SUCCESS"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="56dp"
+        android:textStyle="italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bbbb"
+        app:layout_constraintVertical_bias="0.01" />
+</androidx.constraintlayout.widget.ConstraintLayout>
