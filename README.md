@@ -36,7 +36,7 @@
 <p align="start">
   <img src="https://user-images.githubusercontent.com/73957153/198839402-bb93ff33-d7d6-4087-9ccc-46d6e01bc44d.PNG" width="400" title="hover text"> 
 </p>
-## Pade de profile
+## Page de profile
 <p align="start">
   <img src="https://user-images.githubusercontent.com/73957153/198839409-b8498f6d-3208-4e66-bc59-8c3b887ab2c1.PNG" width="400" title="hover text"> 
 </p>
